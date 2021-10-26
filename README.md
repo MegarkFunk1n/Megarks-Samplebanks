@@ -8,7 +8,7 @@ The only rule is to credit me and the respective mod creator's
 Requierments:
 Flstudio (these are samples/chromatics for the Sampler/slice plugin of flstudio)
 
-List of samples/chromatic scales right now:
+# Samples list:
 [Character name] - [Original mod] (creator of the mod [will only take director/owners])
 
 Hotdog vendor - From Vs hotdog vendor mod (created by Dup4Life)
