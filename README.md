@@ -5,7 +5,7 @@ The only rule is to credit me and the respective mod creator's
 Requierments:
 Flstudio (these are samples for the Sampler/slice plugin of flstudio)
 List of samples/chromatic scales right now:
-
+[Character name] - [Original mod] (creator of the mod [will only take director/owners])
 Hotdog vendor - From Vs hotdog vendor mod (created by Dup4Life)
 
 Scrapeface - From Vs Scrapeface mod (created by Lemonemy/DeltaB)
@@ -17,6 +17,8 @@ Tomogus (chewmate) - From Vs Impostor v3 mod (created by )
 Amogus - From Vs Crewmate mod (created by Lexicord)
 
 Dave - From Vs Dave & bambi mod (created by MoldyGh/MissingTextureMan101)
+
+Delirium - From Vs Delirium mod (created Ratfrik)
 
 Skippa [ chromatic kinda? ] - From Vs Skipper mod (created by Tzuraran/ClockwerkSmurf)
 
