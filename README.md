@@ -6,7 +6,7 @@ Or chromatic scales for ones that arent used
 The only rule is to credit me and the respective mod creator's
 
 Requierments:
-Flstudio (these are samples/chromatics for the Sampler/slice plugin of flstudio)
+Flstudio (these are samples/chromatics for the Sampler/slice plugin of flstudio) or Any other programs that allows for samples/chromatic scales usage
 
 # Samples list:
 [Character name] - [Original mod] (creator of the mod [will only take director/owners])
