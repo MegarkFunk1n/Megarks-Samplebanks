@@ -17,7 +17,7 @@ Scrapeface - From Vs Scrapeface mod (created by Lemonemy/DeltaB)
 
 Purple Crewmate - From Vs Crewmate mod (created by Lexicord)
 
-Tomogus (chewmate) - From Vs Impostor v3 mod (created by )
+Tomogus (chewmate) - From Vs Impostor v3 mod (created by Team Funktastic[Clownfoe/Blackjoystick/PIetroUltra])
 
 Amogus - From Vs Crewmate mod (created by Lexicord)
 
