@@ -1,11 +1,16 @@
 # Megarks-Samplebanks
+
 Here you will find samples of character that only have an instrument for a vocals (ex. agoti) for characters that arent that used on fnf covers that often or used at all
 Or chromatic scales for ones that arent used
+
 The only rule is to credit me and the respective mod creator's
+
 Requierments:
-Flstudio (these are samples for the Sampler/slice plugin of flstudio)
+Flstudio (these are samples/chromatics for the Sampler/slice plugin of flstudio)
+
 List of samples/chromatic scales right now:
 [Character name] - [Original mod] (creator of the mod [will only take director/owners])
+
 Hotdog vendor - From Vs hotdog vendor mod (created by Dup4Life)
 
 Scrapeface - From Vs Scrapeface mod (created by Lemonemy/DeltaB)
