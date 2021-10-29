@@ -28,3 +28,7 @@ Delirium - From Vs Delirium mod (created Ratfrik)
 Skippa [ chromatic kinda? ] - From Vs Skipper mod (created by Tzuraran/ClockwerkSmurf)
 
 Bambi [ Kinda chromatic ] - From Vs Dave & bambi mod (created by MoldyGh/MissingTextureMan101)
+
+Fliqpy - From Vs Flaky mod (Created by Venesio)
+
+Pico - From the base game lol
