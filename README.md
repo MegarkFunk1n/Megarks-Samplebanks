@@ -31,4 +31,6 @@ Bambi [ Kinda chromatic ] - From Vs Dave & bambi mod (created by MoldyGh/Missing
 
 Fliqpy - From Vs Flaky mod (Created by Venesio)
 
-Pico - From the base game lol
+Pico [Chromatic] - From the base game lol
+
+Missigno - From Fnf lullaby (Created by Banbuds)
