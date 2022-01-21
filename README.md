@@ -29,6 +29,8 @@ Skippa [ chromatic kinda? ] - From Vs Skipper mod (created by Tzuraran/Clockwerk
 
 Bambi [ Kinda chromatic ] - From Vs Dave & bambi mod (created by MoldyGh/MissingTextureMan101)
 
+Joke Bambi - From Vs Dave & bambi mod (created by MoldyGh/MissingTextureMan101) [extracted from the flp of supernovae]
+
 Fliqpy - From Vs Flaky mod (Created by Venesio)
 
 Pico [Chromatic] - From the base game lol
